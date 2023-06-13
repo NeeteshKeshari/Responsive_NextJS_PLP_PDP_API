@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+PLP:
+![image](https://github.com/NeeteshKeshari/Responsive_NextJS_PLP_PDP_API/assets/13819130/9956db9b-bd81-4535-a336-32602e8f33a8)
+
+![image](https://github.com/NeeteshKeshari/Responsive_NextJS_PLP_PDP_API/assets/13819130/715d5e75-d1a9-4f1d-8d40-ddf4dc2c8385)
+
+
+PDP:
+![image](https://github.com/NeeteshKeshari/Responsive_NextJS_PLP_PDP_API/assets/13819130/5bf62e6b-6256-4a3c-95f9-c6730aedfc94)
+
+
+
+
 ## Getting Started
 
 First, run the development server:
