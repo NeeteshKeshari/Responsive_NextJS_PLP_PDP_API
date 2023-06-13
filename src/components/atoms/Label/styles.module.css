@@ -1,0 +1,3 @@
+.zakInputLabel {
+	@apply block text-body font-bold mb-1 text-xs;
+}
